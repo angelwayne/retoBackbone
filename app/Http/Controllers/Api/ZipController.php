@@ -14,7 +14,7 @@ class ZipController extends Controller
     public function zip_code($zipCode)
     {
         try {
-            //code...
+
             $zip_codes=Ciudad_Mexico::where('d_codigo',$zipCode)->get();
 
             $result = [
