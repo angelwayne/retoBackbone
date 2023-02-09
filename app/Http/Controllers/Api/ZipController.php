@@ -36,7 +36,7 @@ class ZipController extends Controller
 
                     ]
                 ],
-                "settlement_type" => [
+                "municipality" => [
                     "key" => intval($zip_codes[0]->c_mnpio),
                     "name" => $zip_codes[0]->D_mnpio
                 ]
