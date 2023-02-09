@@ -1,0 +1,25 @@
+Host DB
+
+Base de datos: nextpag1_backbone
+
+Usuario: nextpag1_admin
+password: @b4ckb0n4#23%
+
+/**********************////////////****************************\
+
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=backbone
+DB_USERNAME=root
+DB_PASSWORD=
+
+/**********************////////////****************************\
+
+
+DB_CONNECTION=mysql
+DB_HOST=162.241.61.44
+DB_PORT=3306
+DB_DATABASE=nextpag1_backbone
+DB_USERNAME=nextpag1_admin
+DB_PASSWORD=@b4ckb0n4#23%
