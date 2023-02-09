@@ -24,4 +24,11 @@ La información proporcionada en el portal del [Servicio Postal de México]( htt
 - La base de datos para pruebas locales la puedes descargar [aquí]( https://drive.google.com/file/d/1mMGPdCwWYB2hUH0peZ6xOUmRC0m1DAlO/view?usp=sharing) 
 
 
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a><a href="https://www.mysql.com" target="_blank"><img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="300" alt="Mysql Logo"></a></p>
+
+
+## Genera tu propia clave:
+
+Recomiendo crear tu propia clave para tu ambiente de desarrollo con el siguiente comando
+
+- php artisan key:generate
